@@ -7,7 +7,7 @@
 
 This analysis uses advertisement dataset.
 Customer buy behavior analyzed with reference to 
-Aee
+Age
 Gender
 
 Predictive model can be used for prediction of customer buy behavior for the test data sets. 
