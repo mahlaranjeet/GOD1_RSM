@@ -4,8 +4,12 @@
 
 ``` 
 
-This analysis uses advertisement dataset where total converstion rates and approved conversion rates are been looked for the add clmaoign class, individuals age group, gender, and further these data are used for modeling. The model can be used for further predictive analysis.
+This analysis uses advertisement dataset.
+Customer buy behavior analyzed with reference to 
+Aee
+Gender
 
+Predictive model can be used for prediction of customer buy behavior for the test data sets. 
 
 ``` 
 
