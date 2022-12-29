@@ -1,4 +1,5 @@
 # ADD CAMPAIGNING DATASET ANALYSIS AND MODELING
+# GOD1: Git of the day 1
 
 ## Goals of data analysis:  
 
